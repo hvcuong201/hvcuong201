@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning GitHub
 - 💞️ I’m looking to collaborate on GitHub
 - 📫 How to reach me GitHub
-Yea I meant it, like seriously.
+\n Yea I meant it, like seriously.
 
 <!---
 hvcuong201/hvcuong201 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
